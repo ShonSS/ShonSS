@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning and exploring AI technologies and methodologies, including OpenAI's GPT-4 and DALL-E, and developing Python applications.
 - 💡 I have worked on major projects including the Presidential Recordings Digital Edition and People of the Founding Era at the University of Virginia.
 - 💞️ I’m looking to collaborate on projects that leverage my MarkLogic expertise and align with my interests in data analytics and AI.
-- 📫 You can reach me at shon@non-local.io.
+- 📫 You can reach me soon at shon@nonlocal.io.
